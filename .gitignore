@@ -1,0 +1,7 @@
+*.npz
+__pycache__/
+.venv/
+*.pyc
+jax_cache/
+*.pkl
+.idea/
